@@ -5,6 +5,11 @@ class App extends Component {
   render() {
     return (
       <div>
+        <section>
+          <header>
+            Testing
+          </header>
+        </section>
 
       </div>
     );
