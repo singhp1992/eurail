@@ -41,12 +41,13 @@ header {
 }
 
 .tab-list-active {
-  background-color: white;
+  background-color: whitesmoke;
   border: solid #ccc;
-  border-width: 1px 1px 0 1px;
+  border-width: 1px 1px 0px 1px;
 }
 
 .contact-cards{
   width: 90%;
+  height: 75%;
   margin: 1em auto;
 }
