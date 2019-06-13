@@ -15,13 +15,15 @@ class App extends Component {
             <Tabs>
               <div label="A">
                 All the A's
-            </div>
+              </div>
               <div label="B">
                 All the B's
-            </div>
+              </div>
               <div label="C">
                 All the C's
-            </div>
+              </div>
+              <div label="D">
+              </div>
             </Tabs>
           </div>
 
