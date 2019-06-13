@@ -4,11 +4,11 @@ import './App.css';
 class App extends Component {
   render() {
     return (        
-    <section>
-      <header>
-        Testing
-      </header>
-    </section>
+      <section>
+        <header>
+          Contact List
+        </header>
+      </section>
     );
   }
 }
