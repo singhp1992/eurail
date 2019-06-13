@@ -1,3 +1,3 @@
 import React from 'react';
 
-const ContactCards
+const Tabs
