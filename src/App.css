@@ -45,3 +45,8 @@ header {
   border: solid #ccc;
   border-width: 1px 1px 0 1px;
 }
+
+.contact-cards{
+  width: 90%;
+  margin: 1em auto;
+}
