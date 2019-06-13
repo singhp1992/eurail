@@ -33,6 +33,10 @@ header {
   padding-left: 0;
 }
 
+.tab-list:hover {
+  cursor: pointer;
+}
+
 .tab-list-item {
   display: inline-block;
   list-style: none;
